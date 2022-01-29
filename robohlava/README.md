@@ -1,6 +1,6 @@
 # ROBOHLAVA
 
-Here are all the things you need to run robotic head except models for object and face detection.
+Here are all the things you need to run the robotic head.
 # Installation
 
 1.  Linux os (Ubuntu 18.04 or other versions)
